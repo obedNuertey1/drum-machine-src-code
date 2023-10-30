@@ -1,6 +1,18 @@
-# Getting Started with Create React App
+# Drum Machine Project - Documentation
+### Overview:
+- [Introduction](#introduction)
+- [Available Scripts](#available-scripts)
+- [Learn More](#learn-more)
+- [Visit Site](https://obn-drum-machine.netlify.app/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Introduction
+* This is a drum machine application built with react, redux, jquery and sass
+* There is a power button to turn it on or off.
+* Bank 1 is for hit sounds whilst Bank 2 is for music.
+* You can can control the volume to suite your preference.
+
+![image](https://github.com/obedNuertey1/drum-machine-src-code/assets/101027384/e7aa7da2-a672-4d96-88f4-1ccb8ea084fa)
+
 
 ## Available Scripts
 
